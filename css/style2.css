@@ -1,0 +1,77 @@
+header{
+    background-color: rgb(51, 41, 97);
+    width: 800px;
+    height: 50px;
+    margin : 30px 20px 20px 230px;
+    border: 2px;
+    border-radius: 10px;
+}
+nav{
+    background-color: rgb(55, 28, 153);
+    width: 800px;
+    height: 50px;
+    text-align: center;
+    border:2px;
+    border-radius: 10px;
+    margin : 30px 20px 20px 230px;
+
+    }
+
+    a{
+        font-size: 40px;
+        color: rgb(242, 247, 242);
+    }
+div{
+    background-color: rgb(198, 224, 240);
+    width: 1200px;
+    height: 400px;
+    border:2px;
+    border-radius: 10px;
+    margin: 10px
+    
+   
+}
+aside{
+    background-color: rgb(98, 49, 233);
+    width: 800px;
+    height: 120px;
+    border:2px;
+    border-radius: 10px;
+    margin: 10px
+
+}
+
+footer{
+    background-color: rgb(49, 233, 187);
+    width: 1200px;
+    height: 50px;
+    border:2px;
+    border-radius: 10px;
+    margin: 10px
+  }
+body{
+    background-color: rgb(117, 184, 196);
+}
+
+h1{
+    color: rgb(236, 232, 233);
+    font-size: 40;
+    text-align: center;
+     
+}
+.titulo{
+    color: rgb(7, 32, 30);
+    background-color: rgb(135, 180, 222);
+    text-align: left;
+}
+#subtitulo{
+    color:rgb(16, 6, 44) ;
+    border: 8px solid rgb(14, 3, 41);
+}
+p{
+    text-align: right;
+}
+    .centrado {
+        margin: 10px auto;
+        display: block;
+    }
